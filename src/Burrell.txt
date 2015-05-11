@@ -1,0 +1,19 @@
+Start: Tues, 5 May 2015 12:00:00  -0800
+End: Tues, 5 May 2015 14:00:00 -0800
+Tasks: Set up repository, read assigned reading on prepared statements, and watched first 4 lecture videos. 
+
+Start: Tues, 5 May 2015 22:20:00  -0800
+End: Wed, 6 May 2015 00:45:00 -0800
+Tasks: Skimmed through MySQL reference guide and some external resources and watched remaining lecture videos.  
+
+Start: Fri, 8 May 2015 09:15:00  -0800
+End: Tues, 5 May 2015 12:25:00 -0800
+Tasks: Watched video from tutorial session
+
+Start: Sun, 10 May 2015 10:00:00  -0800
+End: Sun, 10 May 2015 12:30:00 -0800
+Tasks: Set up webpage (html), connected to OSU database, and created table. Also added functionality for adding video to table through website. 
+
+Start: Sun, 10 May 2015 15:15:00  -0800
+End: Sun, 10 May 2015 23:30:00 -0800
+Tasks: Added delete and checked out/ available button functionality. Spent several hours (3+) hours debugging “White Screen of Death” and received help from the instructor via email. Adding filtering and delete all functionality. 
